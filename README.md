@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Телега: https://t.me/Vesel4akU
+- Telegram: https://t.me/Vesel4akU
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Veselchak-U&count_private=true&theme=default&show_icons=true)](https://github.com/Veselchak-U)
 <!--
